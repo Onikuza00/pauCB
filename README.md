@@ -4,9 +4,9 @@ theme: jekyll-theme-minimal
 title: Pau Crosas Repositori
 description: Bookmark this to keep an eye on my project updates!
 
-# 🚀 Projecte Symfony: [Nom del Projecte]
+# 🚀 Projecte Symfony: 7Vision
 
-Aquest projecte forma part del mòdul de **Desenvolupament Web en Entorn Servidor (DAW)**. És una aplicació web que permet [explicar breument la lògica: gestió d'usuaris, botiga, blog, etc.].
+Aquest projecte forma part del mòdul de **Desenvolupament Web en Entorn Servidor (DAW)**. És una aplicació web que és: Una xarxa social de cinema, on pots compartir, aportar i consultar dades de les teves películes predilectes.
 
 ## 📖 Documentació Completa
 Pots consultar els detalls tècnics, diagrames de base de dades i guies d'usuari a la nostra pàgina de documentació:
