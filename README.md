@@ -1,9 +1,3 @@
-# Repositori d' en Pau
-
-theme: jekyll-theme-minimal
-title: Pau Crosas Repositori
-description: Bookmark this to keep an eye on my project updates!
-
 # 🚀 Projecte Symfony: 7Vision
 
 Aquest projecte forma part del mòdul de **Desenvolupament Web en Entorn Servidor (DAW)**. És una aplicació web que és: Una xarxa social de cinema, on pots compartir, aportar i consultar dades de les teves películes predilectes.
