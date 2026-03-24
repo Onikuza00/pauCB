@@ -50,5 +50,5 @@ Pots consultar els detalls tècnics, diagrames de base de dades i guies d'usuari
    ```
 
 ## ✒️ Autor
-* **Nom:** [El teu nom]
+* **Nom:** Pau Crosas Batista
 * **Grup:** 2n DAW - Institut Montilivi
